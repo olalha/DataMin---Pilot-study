@@ -7,8 +7,12 @@ import re
 OPENROUTER_API_KEY = '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'
 MODEL = "google/gemini-pro-1.5"
 
-BATCH_SIZE = 20
-MAX_BATCHES = 999999
+BATCH_SIZE = 1
+MAX_BATCHES = 1
+
+READ_FILE = 'csv_files/unfair_terms_topics.csv'
+WRITE_FILE = 'csv_files/data_unfair_terms.csv'
+MESSAGE_FILE = 'Task_message_unfair_terms.md'
 
 # Reads the initial message from a file
 def read_initial_message(file_name):
@@ -62,14 +66,14 @@ def process_batches(terms, initial_message):
 
 # Saves the processed and labelled data into a CSV file
 def save_results(labelled_data):
-    with open('csv_files/data_labelled_terms.csv', 'a', newline='', encoding='utf-8') as file:
+    with open(WRITE_FILE, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, delimiter=',', quoting=csv.QUOTE_NONE, escapechar='\\')
         writer.writerows(labelled_data)
 
 # Main function to read initial message, process batches, and handle file operations
 def main():
-    initial_message = read_initial_message('task_message.md')
-    with open('csv_files/data_formatted_terms.csv', newline='', encoding='utf-8') as file:
+    initial_message = read_initial_message(MESSAGE_FILE)
+    with open(READ_FILE, newline='', encoding='utf-8') as file:
         reader = csv.reader(file)
         terms = list(reader)
 
