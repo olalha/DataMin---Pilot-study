@@ -16,8 +16,10 @@
     - Do not add any additional white spaces when adding the number at the start of each term
 	- Keep in mind that the majority of the sentences will likely be labelled 0.
 
-**Each value/term separated by an end line**
-**Return the results in plain text without any markdown formatting or added symbols (especially no commas)**
+**Each value/term separated by an end line!**
+**Try to keep every value/term around 10-30 words long!**
+**Make sure that each of the terms in a coherent sentence that makes grammatical sense!**
+**Return the results in plain text without any markdown formatting or added symbols (especially no commas)!**
 
 ### Rules for what an unfair terms is:
 

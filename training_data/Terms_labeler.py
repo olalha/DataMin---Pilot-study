@@ -1,63 +1,79 @@
 import csv
 import requests
 import json
+import re
 
-# Constants
-OPENROUTER_API_KEY = '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'
-BATCH_SIZE = 30
-MAX_BATCHES = 1
+# OLD KEY - OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = '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'
+MODEL = "google/gemini-pro-1.5"
 
+BATCH_SIZE = 20
+MAX_BATCHES = 999999
+
+# Reads the initial message from a file
 def read_initial_message(file_name):
     with open(file_name, 'r') as file:
         return file.read().strip()
 
+# Sends a combined message of initial_message and batch_terms to the chatbot API
 def send_message(initial_message, batch_terms):
-    """
-    Send a combined message of initial_message and batch_terms as a single string to the chatbot API.
-    """
-    # Combine initial_message with batch_terms separated by new lines
     full_message = initial_message + '\n' + '\n'.join(batch_terms)
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
         headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}"},
         data=json.dumps({
-            "model": "openai/gpt-4-turbo",
+            "model": MODEL,
             "messages": [{"role": "user", "content": full_message}]
         })
     )
     return response.json() if response.status_code == 200 else {'choices': []}
 
+# Processes batches of terms, sending them through the send_message function
 def process_batches(terms, initial_message):
-    labelled_data = []
     batch_count = 0
     total_terms = len(terms)
+    
+    # Iterate through the list of terms in chunks defined by BATCH_SIZE
     for start in range(0, total_terms, BATCH_SIZE):
         if batch_count >= MAX_BATCHES:
             break
         end = min(start + BATCH_SIZE, total_terms)
-        batch_terms = [terms[i][0] for i in range(start, end)]  # Access each term in the sublist of terms
+        batch_terms = [terms[i][0] for i in range(start, end)]
         response = send_message(initial_message, batch_terms)
         choices = response.get('choices', [])
+        labelled_data = []
+        
+        # Iterate through each choice to extract and process the returned messages
         for choice in choices:
-            content = choice.get('message', {}).get('content', '')
-            labelled_data.extend(content.split('\n'))  # Split content by new lines
+            content = choice.get('message', {}).get('content', '').split('\n')
+            
+            # Parse each line of the returned message content for processing
+            for line in content:
+                if line and line[0] in '01':
+                    if len(re.findall(r'\w+', line)) <= 40 and len(re.findall(r'\w+', line)) >= 5:
+                        label, text = line[0], line[1:].strip().replace(',', '')
+                        labelled_data.append([label, text])
+                else:
+                    if line != "":
+                        print(f"Error: {line}")
+        save_results(labelled_data)
+        print(f"Batch {batch_count + 1} complete")
         batch_count += 1
-    return labelled_data
 
+# Saves the processed and labelled data into a CSV file
 def save_results(labelled_data):
-    with open('csv_files/data_labelled_terms.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('csv_files/data_labelled_terms.csv', 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, delimiter=',', quoting=csv.QUOTE_NONE, escapechar='\\')
-        for line in labelled_data:
-            writer.writerow([line])
+        writer.writerows(labelled_data)
 
+# Main function to read initial message, process batches, and handle file operations
 def main():
     initial_message = read_initial_message('task_message.md')
     with open('csv_files/data_formatted_terms.csv', newline='', encoding='utf-8') as file:
         reader = csv.reader(file)
-        terms = list(reader)  # Convert CSV input to list of lists
+        terms = list(reader)
 
-    labelled_data = process_batches(terms, initial_message)
-    save_results(labelled_data)
+    process_batches(terms, initial_message)
     print("Classification completed and results saved.")
 
 if __name__ == "__main__":

@@ -1,0 +1,851 @@
+1. Why this information is important
+This document sets out the terms and conditions for your Revolut personal account (your
+account) and its related services. It also sets out other important things that you need to know.
+These terms and conditions, along with the Fees page and any other terms and conditions that
+apply to our services, form a legal agreement (the "agreement", or the "terms") between:
+you, the account holder; and
+us, Revolut Ltd.
+We are a UK company which is authorised to issue e-money by the Financial Conduct Authority
+(the financial regulator in the UK) under the Electronic Money Regulations 2011. Our firm
+reference number is 900562 and our Company number is 08804411.
+It's important for you to understand how your account works. You can ask for a copy of these
+terms and conditions through the Revolut app, at any time.
+If you'd like more information you might find it helpful to read our FAQs but these FAQs don't
+form part of our agreement with you.
+The main way we provide our services is through the Revolut mobile app. However, we provide
+our services in other ways too, like through web pages, other apps, APIs and other means.
+These terms apply whenever and however you access our services. This means they apply to all
+the ways you can access a particular service, even if we refer to the service being accessed
+through a specific means in these terms. For example, when we talk about Revolut Card
+payments, we mean payments using a physical card, but also a virtual card or a card added to
+Apple Pay or Google Pay.
+2. What type of account is my Revolut Account?
+Your account is a 'virtual' account that holds your e-money. It may hold e-money in different
+currencies at the same time.
+E-money is an electronic alternative to cash. If you or someone else gives us money in one
+currency, we'll issue an equivalent value of e-money in that currency. We'll store the e-money in
+your account, and other people will accept it as payment. In these terms, we use ‘money’ to
+refer to e-money.
+3. Using money in your account
+Once you have e-money in your account you'll be able to use our services. For example, you can
+do the following:
+send money to and receive money from other Revolut accounts and non-Revolut accounts;
+change money from one currency to another (we call this a "currency exchange"). The
+currencies available might change occasionally;
+make payments and withdraw cash using your Revolut Card; and
+view information about and manage your account.
+We add new features and services all the time. We’ll let you know about these through the
+Revolut app.
+4. Can I open a Revolut account?
+Normally, you must be 18 or over to open a Revolut account. If you are under 18 and we let you
+have a Revolut account or any other service, we'll let you know any special terms and conditions
+that apply.
+When you ask us to open an account, we or someone acting for us will ask for information about
+you and where the money you will put in your account comes from. We do this for a number of
+reasons, including to check your credit score and identity, and to meet our legal and regulatory
+requirements. Our Customer Privacy Notice (accessible here) explains more about how we use
+your information for these and other purposes. When we have the information we need, we will
+open your account.
+You can’t:
+open more than one Revolut Personal account;
+use a Revolut Personal account for business purposes; or
+open a new Revolut Personal account if we've previously closed a Revolut Personal account
+in your name.
+If you want to use a Revolut account for business purposes, you will need to apply for a Revolut
+Pro account under these terms and the Revolut Pro Account terms, or you can apply for a
+business account under our Business terms. You otherwise cannot use your personal Revolut
+account for business purposes.
+Keep us in the loop
+Please keep your details up to date and let us know immediately if any information you've given
+us changes. If we discover that any of your information is incorrect, we will update it.
+To meet our legal and regulatory requirements we might sometimes need to ask for more
+information about you (for example, if your spending increases). Please provide this information
+quickly so that there is no disruption to your account or our services.
+5. How do I get information on payments into and out of my
+account?
+You can check all payments into and out of your account through the Revolut app. We will not
+make any changes to your account information. It will be available to you through the Revolut
+app while you are a customer. If you need to keep a copy of the information after your account
+is closed, you will need to download it while your account is still active. You can download this
+information from the app at any time.
+We will send a notification to your mobile device each time a payment goes into or out of your
+account. You can turn off these notifications, but if you do, you should regularly check your
+payments on the Revolut app. It's important that you know what payments go into and out of
+your account, so we recommend that you do not turn off notifications.
+Communicating with you
+We'll usually communicate with you through the Revolut app.
+This is how we will provide account information and tell you about any fraud, or suspected fraud,
+relating to your account. It is also how we will tell you if there is a security threat to your
+account. Make sure you regularly check the Revolut app for this information.
+To help keep your account safe, download the latest software for your mobile device and the
+latest version of the Revolut app as soon as they are available.
+We may also communicate with you by text message or email, so you should regularly check
+your text messages and email account.
+We will usually communicate with you in English.
+6. How do I close my account?
+You can close your account, and so end this agreement, at any time by letting us know. You can
+do this through the Revolut app, by writing to us at our head office or by emailing us at
+support@revolut.com.
+You will still have to pay any charges you've run up (for example, if you've asked for an extra
+Revolut Card). We may also charge you any cancellation fees that apply to other agreements
+you've entered into with us (for example, if you cancel your Metal or Ultra subscription).
+If you, or we, close your account, we will give you at least 60 days to withdraw the money we
+hold for you (unless there are reasons preventing the transfer). This means any ordinary
+payment limits, and fees, will also still apply. For example, any limits on the minimum value of
+payments that apply while your account is open will also apply when your account is closed.
+After these 60 days, you will no longer be entitled to any free payments that your plan entitled
+you to while your account was open. For any transfer you request, we charge our standard fee,
+subject to a minimum of £1. For example, if you request an international payment which you
+would have paid £5 for while your account was open then you will be charged £5, but if you
+request a local payment which would have been free while your account was open then you will
+pay £1. If your remaining balance is less than or equal to £1 at the beginning of the 60 day
+period, or drops below it at any time during that period, the fee will be charged automatically
+and your account will be permanently closed after the period ends.
+If you want us to send you money in a different currency than the currency we're holding for
+you, we will convert the currency using the rate that applies at the time, and take our usual fee,
+before sending the money to you.
+If your account has been temporarily restricted, we may not be able to close your account until
+we have completed our enquiries.
+7. What happens after my account is closed?
+We'll hold back enough money to cover any payments that you approved before your account
+was closed. You'll also still owe us any money that you owed us while your account was open.
+How do I get access to my money after my account has closed?
+For six years after your account has closed or your Revolut Card has expired you'll be able to
+contact customer services (at support@revolut.com) and ask them to send you the money we
+still hold for you.
+Once your account is closed you can withdraw your money in any currency you hold in your
+account at that point by transferring it to another bank account. If you need to carry out a
+currency exchange prior to withdrawing, you will only be able to convert the money into your
+base currency (the currency of the country you live in).
+8. How is my money protected?
+When we become aware of a payment for your account, or you add money to it, we issue the
+equivalent value of e-money to your account immediately.
+When we receive that payment or the money you add, we quickly either:
+place it into one of the dedicated client money bank accounts that we hold with large
+commercial or central banks (client money accounts keep your money separated from our
+own money, and the types of banks we can use are set by regulations); or
+invest it in low-risk assets that have been approved by our regulator, which are also kept in
+dedicated client accounts with financial institutions.
+We call this "safeguarding".
+The time at which we receive a payment for you or receive the money you add depends how we
+receive it:
+We only become aware of inbound bank transfers when they arrive in our bank account.
+When we receive these transfers, we issue the e-money to your account straight away.
+When you add money on the Revolut app (for example, by using your stored card, Apple or
+Google pay, or some other payment methods), we know the payment is coming before we
+actually receive it, so we issue the e-money to your account straight away. However, we don’t
+safeguard the money for these payments until we actually receive it. If it’s been more than
+five business days since we issued you the e-money but the payment still hasn't arrived, we
+safeguard the money for you, using our own money, anyway.
+A business day is a day other than a weekend or bank holiday in England.
+We keep safeguarding your money until you pay it out. This happens when you spend or
+withdraw it using your Revolut card, send it to another bank account or Revolut user, or spend it
+in any other way.
+What would happen in an insolvency?
+Safeguarding helps protect you if we were to become insolvent. If that were to happen, you
+(and all our other customers) would be paid out your e-money balances from our client money
+bank accounts. This process would be handled by an insolvency practitioner, not by us. However,
+safeguarding regulations make sure that once any costs related to an insolvency are paid out
+you will be paid from our client money accounts before anyone else.
+The money in your account isn't covered by the Financial Services Compensation Scheme
+(because it’s safeguarded instead).
+9. Keeping your Revolut account safe
+We do everything we can to keep your money safe. We ask you to do the same by keeping your
+security details and Revolut account and card safe.
+This means you shouldn't keep your security details near your Revolut Card or a device you use
+to access your account, and you should disguise or protect them if you write them down or
+store them. Don’t share your security details with anyone other than an open-banking provider
+or third-party provider who is acting in line with regulatory requirements. We've explained more
+about open-banking providers and third-party providers in section 10.
+Sometimes it's easy to forget to take the steps you should take to keep your money safe. Here
+are a few tips:
+make sure you close down the Revolut app (or any other means of accessing your account)
+when you're not using it;
+keep the devices you use to access your Revolut account secure;
+keep the factors used to log into your Revolut account (like your email account and sim card
+or phone number) secure and don't let other people use them; and
+download the latest software for the device you are accessing Revolut from and the latest
+version of the Revolut app as soon as they are available.
+Contact us through the Revolut app, as soon as possible, if your Revolut Card is lost or stolen,
+or if your Revolut Card or security details could be used without your permission.
+If you can, you should also freeze your Revolut Card using the Revolut app or by calling the
+automated number below. If you later realise there’s not a risk to your Revolut Card's security,
+you can unfreeze it.
+How you can contact us
+You can contact us in any of the following ways:
+Write to us: 4th Floor, 7 Westferry Circus, London, E14 4HD, UK
+Freeze your Revolut Card: +44 (0)203 322 8352
+Tell us about a lost or stolen Revolut Card or security details: Send us a message through the
+Revolut app on someone else's device, send us a message on social media, or email us on
+support@revolut.com.
+10. Making payments and accessing accounts using ‘open
+banking’
+You can use ‘open banking’ to access the accounts you have with other providers via the
+Revolut app and to allow other providers to have access to your Revolut account.
+Allowing other providers to have access to your Revolut account
+You can allow other providers to have access to your Revolut account information or make
+payments from your Revolut account on your behalf. These providers are often referred to as
+“open banking providers” or “third-party providers”.
+These providers need to be authorised by a regulator to provide these services to you (such as
+the Financial Conduct Authority, if the provider operates in the UK). If you are thinking of using
+an open banking provider or third-party provider, you should ask them for details of their
+authorisation and check this yourself. (You can do this by checking the regulator’s online register
+of authorised providers.)
+When you access your Revolut account via an open banking provider or third-party provider, our
+terms and conditions still apply to your use of your Revolut account.
+Sometimes we might have to block an open banking provider’s or third-party provider’s access
+to your account (for example, if we're concerned about fraud, if they don’t have the
+authorisation they need or if there are legal or regulatory reasons for doing so). If we do this,
+we'll try to let you know beforehand or as soon as possible afterwards, unless it would be
+unlawful to do so or there are valid security reasons why we can’t. We’ll also unblock the thirdparty provider as soon as the reasons for denying them access no longer exist.
+You also have the right to block an open banking provider’s or third-party provider’s access to
+your Revolut account. You should contact us if you think a provider is acting without your
+consent.
+When you use an open banking provider or a third-party provider, you authorise them and
+consent to them accessing your Revolut account information or making payments from your
+Revolut account on your behalf.
+Using the Revolut app to access accounts with other providers
+You can also access your accounts with other providers, and initiate payments from those
+accounts, via the Revolut app. We call these our “Open Banking Services”. Revolut is authorised
+to provide these services.
+When you use our Open Banking Services to view information about an account you hold with
+another provider, you must authorise us to access that account. We won’t store any of the
+sensitive data you provide to give that authorisation.
+Once you’ve authorised us to access the account:
+We will access your account information on your behalf (meaning information like your
+account details, transaction history, and the features of your account).
+We will analyse this information to provide spending insights to you (like suggesting how you
+might be able to save money).
+You can revoke your consent at any time via the Revolut app.
+When you use our Open Banking Services to initiate a payment from an account you hold with
+another provider, you must authorise us to make that payment as well. We won’t store any of
+the sensitive data you provide to give that authorisation.
+11. Are there any restrictions on using my Revolut account?
+Please act reasonably and responsibly when using your Revolut account, or any service we
+provide to you under it.
+You cannot use your Revolut account in the following ways, either directly or indirectly:
+for illegal purposes (for example, committing fraud);
+in a way that we reasonably believe might harm our ability to provide our services;
+only to send money to and receive money from a card account;
+to control or use a Revolut account that’s not yours;
+to give Revolut Cards to any other person;
+to allow anyone else to have access to or use your account or the Revolut app;
+to abuse, exploit or get around any usage restrictions set by a service provider your Revolut
+Card is registered with. For example, you must only use one Revolut Card for any particular
+service provider that offers a free subscription or trial period; or
+to trade in foreign currencies for speculative purposes (that is, to take advantage of any
+expected rise or fall in the value of a currency) or to take advantage of discrepancies in the
+foreign exchange market.
+Please also act in a respectful way towards us and our support staff – we're here to help you.
+12. Adding money to my account
+You can add money to your account using a card registered with us (we call this your "stored
+card"), bank transfer or by cash. Your stored card must be in your name.
+When you add money by bank transfer, you must use the account details stated in the Revolut
+app. When we receive the money we will add the equivalent value of e-money to your account.
+Make sure you follow the prompts from the app carefully to avoid any delays.
+The account details you must use to add money to your account will depend on the currency of
+the money you are adding. For example, if you want to add money to your account in pound
+sterling (£), you must use the ‘British Pound account’ details stated in the Revolut app.
+If you use a stored card or a bank account that is in one currency to add money to your account
+in another currency, your bank or card provider may charge a fee.
+When you add money to your account by cash, you must follow the instructions, and comply
+with any limits, set out here and in the Revolut app.
+There is more information on adding money to your account in our FAQs.
+Never worry about the balance of your Revolut account getting too low
+We know that it's important to be able to make payments from your account whenever you
+want. You can authorise us to add money to your account from your stored card whenever the
+value of money in your account drops below a certain amount. We call this an auto-add. You can
+cancel an auto-add at any time through the Revolut app.
+Payment limits
+Sometimes we might limit how much you can receive into or pay from your account, or how
+much you can withdraw or spend using your Revolut Card. We might also limit the value of
+currency exchange you can carry out at any one time or over a period of time. These limits can
+change from time to time. Information about these limits is set out in our FAQs.
+Keep your currency consistent
+It's important that any payment to your account is made in the currency of your account.
+Otherwise, the payment will be converted to the currency of your account. This means that your
+account might be credited with more or less than you expected. We won't be responsible for
+any losses if this happens.
+Fees apply for adding money in some ways, in some regions
+We’ll always make sure you can add money without fees. However, some ways of adding money
+in some regions involve a cost to us. Where they do, we may pass that cost on to you as a fee.
+You will always be told what this fee is in advance. How these fees are calculated is set out on
+our Fees Page.
+13. Transferring money between Revolut accounts
+Instant transfers
+You can send money to, and receive money from, other Revolut accounts. We call these sorts of
+payments Instant Transfers. All Instant Transfers are received immediately.
+You can make an Instant Transfer to another Revolut user’s account by choosing them from the
+contacts list in the Revolut app, by using their username, or by using any other method we
+provide to identify them, and following the prompts.
+Revolut Messenger
+You can also use this thread in the transfer section of the Revolut app to chat with your
+contacts. We call this function “Revolut Messenger”. Revolut Messenger is intended to make
+your use of Revolut more social by allowing you to communicate with other Revolut users about
+your activity on the Revolut app.
+In order to use Revolut Messenger:
+you and the user you want to chat with must both have been using a version of the Revolut
+app, and signed up to Revolut in a country that supports, Revolut Messenger; and
+either you must have successfully made a payment to the user in the past; or
+you both must have each other saved in the contacts of your mobile device and have those
+contacts synced with the Revolut app; or
+you both must have been added to a group feature where Revolut Messenger is supported
+(such as our split bill feature).
+Group Pockets
+If you are a member of a Group Pocket, you can send instant transfers to that as well.
+A Group Pocket is an account set up and controlled by an individual Revolut user. All members
+of a Group Pocket can see their own transactions in the Group Pocket and can leave it at any
+time. Only the Revolut user who set up the Group Pocket (the owner) can automatically see all
+of the Group Pocket's transactions, close the Group Pocket, add or remove other members, and
+allow Group Pocket members to withdraw funds (or revoke their access). You should only join a
+Group Pocket, or send money to it, if you trust the owner as they own the funds - if the owner at
+any point stops being a Revolut account holder or their account is locked, then you will not be
+able to access the funds in the Group Pocket.
+Making purchases using Pay with Revolut
+You can also make an Instant Transfer to a business which uses "Pay with Revolut" to receive
+payments. This can happen in the following two ways:
+1. You can instruct us to make an Instant Transfer for a set amount from your Revolut Account
+to a business (for example, instead of paying by card in a checkout). We call these payments
+"Customer Initiated Payments".
+2. You can consent to a business being able to collect Instant Transfers from your Revolut
+account in the future (for example, if you allow a business to collect payments from your
+account when you buy something or on a regular basis, like for a subscription). We call these
+"Merchant Initiated Payments".
+Customer Initiated Payments
+Customer Initiated Payments are for a set amount and are one-off. The business will only ever
+be paid the amount you confirm and the business cannot collect any other payments without
+your permission.
+Merchant Initiated Payments
+Merchant Initiated Payments are collected by the business based on your previous consent, and
+so can be for any amount or at any interval. If you want to stop a Merchant Initiated Payment,
+you should contact the business charging it to cancel the service. You can also contact us to
+withdraw your consent (via chat), and we will action your request by the end of the next
+business day.
+We will notify you in the Revolut app whenever a Customer Initiated Payment or Merchant
+Initiated Payment is made from your Revolut account.
+Protection when using Pay With Revolut
+Pay with Revolut is a service we offer businesses to allow you to pay them directly from your
+Revolut account, without any frustrating card details. However, we want Pay with Revolut to
+work for you as well as for businesses. So we have created a Buyer Protection Policy which
+applies when you make an eligible purchase using Pay with Revolut.
+Refunds for Merchant Initiated Payments
+Merchant Initiated Payments are collected from your account based on a consent you have
+given in the past. We encourage businesses to tell you the amount of any Merchant Initiated
+Payment before they collect it. However, if you think a Merchant Initiated Payment has been
+taken from your account in error, you can ask us to refund it within 8 weeks of it being paid. To
+request a refund, contact us via chat, and we will let you know if your refund is successful within
+10 business days.
+14. Making other types of payments
+It's easy to send money to your or someone else's bank account. You can make a one-off
+payment or set up a recurring payment. Just enter the sort code and account number (or, for
+international payments, the IBAN) of the account you’re sending money to in the Revolut app
+and follow the prompts. We may need to ask for other information as well.
+Using your Revolut Card
+You can also make payments or withdraw cash using your Revolut Card.
+When you use your Revolut Card to make a withdrawal from an ATM or make a payment (for
+example, in a shop or restaurant), we will consider the payment to be authorised by you unless:
+you let us know that the money has been stolen from your account; or
+you don't think we've carried out your instructions correctly.
+Sometimes we might charge you a fee for making withdrawals. You can read about these fees
+in our Fees page.
+We are not responsible for losses where payments are returned in a different currency.
+Sometimes, money you've asked us to transfer to someone is not paid into their account and is
+returned to us. If we had to carry out a currency exchange when we sent the payment, and can
+show that we did everything right, when we return the money to you we will return it in the
+converted currency or convert it back to the original currency. This means that the amount you
+receive back into your account might be less or more depending on the currency conversion
+rate at the time of return. We are not responsible for any losses that this causes you.
+Direct debits
+A direct debit is any payment which is collected from your account by the person you are
+making the payment to. The difference between a direct debit and other payments is that a
+direct debit is collected by the person you are paying (instead of being initiated by you). The
+person you are paying must have your permission to do this.
+Direct debits are set up by the person you are paying and their bank. Their bank will contact us
+to tell us that you have given your permission for the direct debit. They will determine the
+amount of the payment and contact us to collect it too.
+We currently support direct debits in euros to accounts within SEPA (through the SEPA
+scheme) and in pounds sterling to accounts in the UK (through the Bacs scheme). The direct
+debits you are able to access will depend on where you live.
+You are in control of your direct debit. You are able to limit the amount of it or how often it is
+paid. Just let us know through the Revolut app.
+You can also cancel direct debits before they are made. SEPA direct debits can be cancelled up
+until the end of the business day before they are due. UK direct debits can be cancelled before
+3pm on the business day that they are due.
+Even if it is too late to cancel a direct debit, you may be entitled to a refund:
+If you have made a direct debit in euros to an account within SEPA (through the SEPA
+scheme), you will be entitled to an unconditional refund if you contact us within eight weeks
+of the date the payment was taken out of your account.
+If you have made a direct debit in pounds sterling to an account in the UK (through the Bacs
+scheme), you can ask us to request a refund by making a Direct Debit Indemnity Claim on
+your behalf. The outcome of your claim will depend on the rules of the Bacs scheme.
+Card transfers
+You can use Revolut to send money to a card. This means a payment that is sent via card
+schemes instead of traditional payment schemes. The recipient of the payment is identified by
+their card number instead of their bank account number.
+Card transfers are sent instantly, and should arrive within 30 minutes. This means there is no
+opportunity to cancel this type of payment after it is sent, so please make sure that the details
+you enter are correct.
+Remember that your card number is a valuable piece of information that can be used to
+commit fraud against you. The only thing you need to share from your card to make a card
+transfer is the card number; you do not need the expiry date and you certainly don’t need the
+security code, so make sure you keep these pieces of information safe.
+Making Payments in Chinese Yuan
+If you have not engaged in any cryptocurrency related activity on Revolut, you can use Revolut
+to send payments in Chinese Yuan to anyone with an AliPay account, subject to the limits
+below:
+the maximum value of any one payment is CNY50,000;
+you can only send up to five individual payments [each month / within a 30 day period];
+you can only send up to CNY500,000 in total [each year / within a 365 day period].
+We do not support payments in Yuan to other accounts right now, and you cannot hold balances
+in Yuan either.
+Unfortunately, if you have engaged in any cryptocurrency related activity on Revolut, you cannot
+use Revolut to send payments in Chinese Yuan. This is due to restrictions put in place by the
+partners we use to offer this service. By cryptocurrency related activity, we mean you have
+either:
+held, bought or sold cryptocurrency directly on the Revolut App; or
+received or sent cryptocurrency proceeds from a cryptocurrency exchange into your Revolut
+account.
+In order make one of these payments, you will need to provide:
+the name and AliPay ID of the person you want to send the money to;
+the reason for the payment; and
+any other information we may need to make your payment.
+The exchange rate used for your payment in Yuan will be shown to you in the app before you
+make the payment. This rate is calculated in the same way as for any other currency exchange
+on Revolut, and will also count towards your fair usage limit.
+Alipay payments are completed in near real-time. If you make a payment on a business day, it
+will arrive at the AliPay ID the same day. If you make a payment on a non business day, it will
+arrive the following day.
+Transfers to Mobile Wallets
+You are able to use the Revolut app to send outbound payments to Mobile Wallet recipients. As
+this payment is not sent through a traditional payment scheme, no bank account details are
+required for you to complete this transfer. Your recipient will be identified by the phone number
+or email linked to their Mobile Wallet account (phone number or email).
+To send a payment using your Mobile Wallets, you’ll need to provide a wallet identifier and
+information about your payment.
+These transfers are normally sent instantly and are expected to arrive in your recipient’s wallet
+within 30 minutes, but can sometimes take up to a day. As this is an international transfer, our
+regular international payment fees will apply (please see our Fees pages here to access the
+applicable fees). No additional fees are applicable to these payments.
+15. What happens if a payment was sent to the wrong
+account, wasn’t sent at all or was delayed?
+We'll always try to process your payments correctly and on time, but sometimes things go
+wrong and a payment might be delayed or not received by the person you wanted to pay.
+What to do if you think someone has made a mistake?
+If something has gone wrong and the person you paid, or the person who paid you, is in the
+EEA, let us know through the Revolut app. You need to let us know as soon as possible, and no
+later than 13 months after payment.
+The EEA is made up of all the countries in the European Union, plus Norway, Iceland and
+Liechtenstein.
+If the money is not received into the account you sent it to because of an error on our side, we'll
+refund the payment back into your account. If you've had to pay any charges or interest as a
+result of our mistake, we'll refund those too.
+If we received a payment on your behalf, but the money was not paid into your account on time,
+we'll immediately credit your account with the amount of the payment.
+These rules don't apply to currency exchanges.
+What to do if you think you have made a mistake?
+You should always check that you have entered the correct details for the person you want to
+pay before you make a payment. It’s always a good idea to make a test payment of a small
+amount (say, £1) to make sure that you have the account details correct. You should always
+think about the following:
+Always make sure you know the person you are making a payment to. If someone
+approaches you and asks you to make a payment to them, but you are not sure who they
+are or what the payment is for, you may be a victim of a scam and we may not be able to
+recover the money for you.
+The contacts you see in the Revolut app are taken from the names and phone numbers you
+have saved to your own phone. These names and numbers are not verified by us or anyone
+else. This means that if you have saved the wrong number or wrong name to your phone,
+you will pay the wrong person and may lose your money.
+The usernames you see in the Revolut app can look similar to other usernames and are able
+to be changed by individual users. We take steps to remove any inappropriate usernames,
+but these usernames are not verified by us or anyone else. This means that if you are not
+sure that the person is who they say they are, you may pay the wrong person and may lose
+your money.
+We are not responsible if we make a payment to the person you tell us to, even if you gave us
+the wrong account number, username or phone number by mistake. However, if you ask us to,
+we’ll try to get your money back for you. We may also try to get you information about the
+beneficiary so that you can try to get it back yourself (if the law allows us to). While we will try
+to do these things, we don’t guarantee that we will, and in some cases we won’t be able to.
+Although we may provide you with “confirmation of payee” services for some payments, the
+ultimate decision on whether to make those payments remains with you. We provide these
+services to help you make a more informed decision, but the information is provided by the
+institution holding the payee’s account, not by us, so we cannot guarantee its accuracy. This
+means that we, and any third parties we use to provide these services to you, are still not
+responsible for any payment you make to a wrong account.
+What we’ll do if we, or someone else, has made a mistake?
+On the other hand, if a payment is mistakenly paid into your Revolut account, we can reverse
+the payment or put a hold on it. If we pre-fund a payment into your account (like if you receive
+your salary early via Bacs) and the payment fails to arrive, we can also reverse the payment or
+put a hold on it.
+We can do this even if you have spent part of the payment. If the person who mistakenly made
+the payment makes a legal claim to get it back themselves, we may need to share your
+information with them.
+For these reasons, you should always check your account regularly to make sure everything is
+correct.
+16. Send and receive money using a payment link
+You can easily send money to a friend who doesn't have a Revolut account by setting up a
+‘payment link’ in the Revolut app. A payment link allows you to agree to pay a certain amount
+without entering the account details the payment will be made to. Instead, you choose the
+amount, share the link, and the recipient enters their account details themselves.
+You can also create a payment link to receive payments and send that link to your friend.
+Once you've sent the link to your friend, they will need to complete the payment link by entering
+the relevant details.
+If you are sending money using a payment link, your friend will need to enter their bank
+account details into the link. The payment will then be made to their bank account, as if you
+had entered those details into the app yourself. Sometimes, because of the size or nature of
+the payment, your friend will be asked to join Revolut in order to complete the transaction.
+Once they have, the payment will be made to their Revolut account.
+If you are receiving money using a payment link, your friend will need to enter their card
+details, or details of a card added to Apple Pay or Google Pay, into the link. The payment will
+then be made from their card. We may put limits on the amount you can request using a
+payment link, which we will show you in the app.
+Sometimes, we may have to ask your friend to open a Revolut account or provide information
+before they can receive a payment for other reasons too. If they don't, we won't be able to
+make the payment to them or from them.
+All payment links have a time limit. After this, the link will expire, and your friend will not be able
+to make or receive your payment. We’ll tell you what this time limit is in the app when you
+create the link.
+Remember, when you create a payment link to send money, you are agreeing to make a
+payment without entering the account details yourself. The payment will be made to whatever
+details are entered into the link. Make sure you are careful where you share a link, and who you
+share it with. For example, if you share a “send money” link on your friend’s social media profile,
+someone else could click on the link and claim the money themselves. If you’re worried about a
+payment link you have created, you can cancel it (before it is completed) through the
+transaction history in the app.
+17. What exchange rate do you use?
+The exchange rate we use is set out in our Fees Page. You can always see our live exchange
+rate in the Revolut app.
+All Standard and Plus users can make a set amount of exchanges at this rate every month. The
+set amount depends on what your base currency is and is set out on our Fees Page. Standard
+and Plus users who exchange more than this amount start paying a fair usage fee (but
+Premium, Metal and Ultra customers do not).
+Once we've converted a currency, your transaction history in the Revolut app will show the
+exchange rate we used too.
+The exchange rate may change between the time you told us you wanted to exchange currency
+and the time we actually carry out the conversion. This means that if you ask us to exchange
+currency, you may receive a little more or less back than what you had expected.
+We’re not responsible if you lose any money as a result of a currency exchange.
+We’re not responsible if you’re charged any fees or a different rate by someone else for a
+currency conversion either. This is because we don’t charge those fees or set that different rate.
+For example, imagine you're travelling overseas and when you pay your bill at a restaurant you
+agree (on the card machine) to pay in your home currency instead of the local currency of the
+restaurant. When you do, you’re asking the restaurant (or their bank) to convert the currency for
+you, and they may charge a fee or use a different rate.
+18. Can I cancel a payment or currency exchange?
+If a payment is scheduled to be paid from your account in the future (like a recurring payment),
+you can cancel it using the Revolut app at any time before the end of the business day before it
+is due to be paid. The one exception to this is UK direct debits, which can be cancelled at any
+time before 3pm on the day they are due to be paid.
+You can’t cancel a payment after it is made. This means that you can't cancel any payment
+which you ask us to make instantly (like an Instant Transfer or a currency exchange).
+19. How long does it take to make a payment?
+We understand that when you make a payment, one of the most important things is that the
+person the payment is for receives it on time. When their bank will receive the money depends
+on what time you tell us to make the payment, and the currency you want us to make it in.
+The bullets below explains when we'll make payments:
+When you make an Instant Transfer to a Revolut account, you can provide your payment
+instruction at any time, and we will receive your payment instruction immediately.
+When you make a payment to someone else's bank account, if you provide your payment
+before 1pm on a business day, we will receive your payment instruction immediately. If you
+provide your payment after 1pm on a business day, or on a day that is not a business day, we
+will receive your payment instruction the next business day.
+When you make a future dated payment to someone else's bank account (like a recurring
+payment), you can provide your payment instruction at any time, and we will receive your
+payment instruction the same business day (if the payment is due to come out of your
+account on a business day) or the next business day (if the payment is due to come out of
+your account on a non-business day).
+When you make a payment using a Payment Link, you can provide your payment instruction
+at any time, and we will receive your payment instruction when the person you want to pay
+enters their bank details (as long as this is within 24 hours of you sending them the link).
+When you make a payment using a card transfer, you can provide your payment instruction
+at any time, and we will receive your payment instruction immediately.
+The bullets below set out when we'll make payments in different currencies:
+If you make a payment in £ or €, once we’ve taken the payment from your account, it will
+reach the account of the person you are paying the next business day.
+If you make a payment in any currency other than £ or € to a bank account in the EEA, once
+we’ve taken the payment from your account, it will reach the account of the person you are
+paying up to four working days later.
+If you make a payment in any currency other than £ or € to a bank account outside the EEA,
+once we’ve taken the payment from your account, it will reach the account of the person you
+are paying as soon as we can get it there. How long it takes will depend on where the bank
+of the person you want to pay is.
+If you tell us to make a currency exchange you will receive the converted e-money immediately.
+20. When we will refuse or delay a payment
+We must refuse to make a payment or delay a payment (including inbound and outbound
+payments) in the following circumstances:
+if legal or regulatory requirements prevent us from making the payment or mean that we
+need to carry out further checks;
+if you have broken these terms and conditions in a way that we reasonably believe justifies
+us refusing or delaying your payment;
+if we believe that processing your instruction would break these terms and conditions or that
+your instruction doesn't contain all the information we need to make the payment properly;
+if the amount is over, or would take you over, any limit that applies to your account. We've
+set out the limits in our FAQs;
+if there is not enough money available in your account to make the payment and cover any
+charge;
+if a bankruptcy order is made against you or you've entered into an individual voluntary
+arrangement with your creditors;
+if, even after doing everything reasonably possible, we won't be able to make the payment
+on time;
+if a third party prevents us from making the payment (for example, if Mastercard or Visa do
+not allow a payment or cash withdrawal using your Revolut Card);
+if you owe us money or we intend to exercise our right of set-off (as explained below);
+if we have asked you for important information we reasonably need and you have not given
+us that information; or
+if we have suspended your account.
+We may also refuse to issue a new Revolut Card if you do not have enough money in your
+account to pay us to issue or deliver the card.
+When we refuse to make a payment, we’ll always try to let you know.
+If we can, we’ll use the Revolut app to tell you that we have refused to make a payment. If you'd
+like to find out why we refused the payment, and what you can do to solve any problem, please
+contact us through the app.
+We won't be responsible for any losses you suffer as a result of us refusing or delaying a
+payment.
+21. Fees for making or receiving payments
+We try to keep our payments free. However, sometimes we have to charge a fee to be able to
+provide a service. Where we do, we aim to keep our fees low. We’ll always show you any fee that
+applies to a payment in the app before you make the payment, and you can also see our
+current fees on our Fees Page.
+You will not be charged any fees by us for receiving any payments electronically. You will not be
+charged any fees by us for sending local payments in your base currency either.
+We may charge you for adding money to your account by cash. Where we do, we’ll always show
+you any fees in the app in advance, and you can also see our current fees on our Fees Page.
+If you make a payment in another currency or to another country, we may charge a crossborder or SWIFT payment fee. These fees are set out in our Fees Page. We will always tell you
+about them, and tell you how much they cost, in the Revolut app before you make a payment.
+Other banks involved, such as the bank of the person you are paying or intermediary banks
+(meaning banks that help transfer the money between other banks) might sometimes take
+their fees from the payment you're sending or receiving. This could mean that you or the person
+you are paying receives less than expected. For example, you could only receive £90 from
+someone who has sent you £100 because the other person’s bank has charged a £10 fee.
+This might happen if:
+the bank of the person you are sending a payment to or receiving a payment from is within
+the EEA, and the payment is in a currency that is not the currency of an EEA member state;
+or
+you make a payment to or receive a payment from someone whose bank is outside the EEA.
+If you make a card transfer, you will also be charged a fee. This fee will depend on the amount
+you are sending and where you are sending it to. This fee will be calculated in real time and
+shown to you in the app before you make the payment.
+22. What happens if someone steals from my account?
+If you think someone has stolen from your account, let us know as soon as possible through the
+Revolut app (and no later than 13 months after the money was taken). We'll pay the money
+back into your account if:
+you couldn't have known that your security details or Revolut Card were at risk of being
+misused;
+the payment happened because someone we're responsible for made a mistake;
+the payment was taken after you told us that someone knew your security details or your
+Revolut Card was lost or stolen, or we didn't give you a way to tell us about this; or
+the law required us to make you follow certain prompts when you instructed us to make the
+payment and we didn't do this.
+We'll also pay back any charges you had to pay as a result of the payment being taken from
+your account.
+We won't refund any money if you've acted fraudulently, or you intentionally or carelessly failed
+to keep your security details or Revolut Card safe (unless you told us about this before the
+payment was taken from your account). For example, we won't refund you if you gave someone
+your Revolut Card PIN and they made a payment using your card without you knowing about it.
+23. When we might block your account or Revolut Card
+The safety of your money is important to us. We might prevent you from making payments from
+your account or with your Revolut Card if we're reasonably concerned about its security or that
+it might be used fraudulently or without your permission.
+We might also have to block your account or Revolut Card to meet our legal obligations.
+We'll tell you through the Revolut app before, or as soon as possible after, we block your
+Revolut app or Card. We'll also let you know why we've done it (unless it would reduce your or
+our security or it would be unlawful).
+24. When could you suspend or close my account?
+We may close or suspend your account immediately (including access to other Revolut services
+like trading, crypto, and precious metals), in exceptional circumstances. Exceptional
+circumstances include, for example the following:
+if we have good reason to suspect that you are behaving fraudulently or otherwise criminally;
+if you haven't given us (or someone acting on our behalf) any information we need, or we
+have good reason to believe that information you have provided is incorrect or not true;
+if you've broken these terms and conditions in a serious or persistent way and you haven't
+put the matter right within a reasonable time of us asking you to;
+if we have good reason to believe that your use of the Revolut app is harmful to us or our
+software, systems or hardware;
+if we have good reason to believe that you continuing to use your account could damage our
+reputation or goodwill;
+If you behave in a disrespectful or abusive way to our Support or other staff, for example by
+harassing or insulting staff members or using offensive language while communicating with
+them;
+if we have asked you to repay money you owe us and you have not done so within a
+reasonable period of time;
+if you've been declared bankrupt; or
+if we have to do so under any law, regulation, court order or ombudsman’s instructions.
+If we close your account in exceptional circumstances, you will only be able to exchange funds
+into your base currency, liquidate your trading account, sell any cryptocurrency or commodities,
+and send money via external bank transfer before the account is closed. You will not be able to
+credit the account, make any card payments, withdraw money at an ATM, or send money to
+other Revolut accounts. Inbound payments will be rejected and returned to the sender.
+We may also decide to close or suspend your account for other reasons. We would contact you
+through the Revolut app at least two months before we do this.
+Closing your account and ending the agreement may also end any other agreements you have
+with us or through us. You can get more information through the Revolut app or by contacting
+us.
+25. We can change these terms
+We'll only change these terms and conditions for the following reasons:
+if we think it will make them easier to understand or more helpful to you;
+to reflect the way our business is run, particularly if the change is needed because of a
+change in the way any financial system or technology is provided;
+to reflect legal or regulatory requirements that apply to us;
+to reflect changes in the cost of running our business; or
+because we are changing or introducing new services or products that affect our existing
+services or products covered by these terms and conditions.
+Telling you about changes
+If we add a new product or service that doesn't change the terms and conditions of your
+account, we may add the product or service immediately and let you know before you use it.
+Otherwise, we'll give you two months' notice through the Revolut app before we make any
+change. We'll assume you're happy with the change unless you tell us that you want to close
+your account before the change is made.
+26. Your refund rights for Revolut Card payments
+You can ask us to refund an amount taken from your account if all of the following apply:
+1. you agreed that a payment could be taken, but didn't agree the actual amount of the
+payment;
+2. the amount taken is more than you reasonably expected in all the circumstances (including
+your spending pattern);
+3. the person you paid is in the EEA;
+4. you didn't authorise the payment directly with us;
+5. we and the person you paid did not give you any information about the payment during the
+four weeks before it was taken; and
+6. you ask us for the refund within eight weeks of the payment being taken from your account.
+For example, you could get a refund if you gave a hotel permission to charge your Revolut Card
+for anything you take from the minibar, but the hotel has charged you more money than you
+could reasonably have expected at the time you gave them permission to do this.
+We may ask you for more information to investigate the matter. We'll provide a refund, or tell
+you why we couldn't provide one, within 10 business days from the date you give us the
+information we ask for.
+27. Are you responsible if something goes wrong with my
+account, my Revolut Card or the Revolut app?
+We'll do as much as reasonably possible to make sure that our services are not interrupted and
+are accessible at a reasonable speed. However, we can't promise that this will always be the
+case or that the services will be free from faults. We also rely on some third parties to provide
+services to you, which can sometimes disrupt our services. We’ll always do our best to solve any
+problems with our services, no matter what the cause.
+If you have a Revolut Card, we will let you know about any changes to our system that will
+affect your ability to use the card.
+We will not be responsible for losses resulting from us failing to meet our obligations for
+payments into and out of your account because:
+you have breached these terms and conditions or have acted unlawfully;
+of a legal or regulatory requirement; or
+unforeseeable events outside our control, which were unavoidable at the time.
+If you can't use your Revolut Card for any reason we will only be responsible to you for replacing
+the card.
+We will only be responsible for foreseeable losses. If we break the agreement, we will only be
+responsible for any loss that we could have foreseen at the time we entered into the
+agreement.
+Nothing in these terms and conditions removes or limits our liability for death or personal injury
+resulting from our negligence or from fraud or fraudulent claims and statements.
+28. How you might owe us money
+You cannot borrow money on your account (for example, make payments of more than the
+value of the money in it), although you may be able to benefit from one of our credit products.
+If your balance becomes negative (for example, because you do not have enough e-money to
+cover fees you owe us), you must top up your account immediately.
+If you fail to top up and bring your balance back to zero, or you owe us fees (other than thirdparty fees for making or receiving a payment) or any other amount, we may, at any time,
+without notice or demand take the amount you owe us from any amount we are due to pay to
+you including any other account you hold with us either solely or jointly. We call this our right of
+set-off. We can also take the money from your account in the currency of the country you live in
+(your base currency) or the equivalent value from your account in another currency, until your
+negative balance has been fully repaid.
+If you don't have enough money in your account to pay the fees (listed in our Fees Page) or
+other amounts you owe us, we also might recover the amount in another way, as explained
+below, and will inform you before doing so:
+taking the amount you owe us from your stored card;
+taking other steps to recover the money you owe us, such as:
+- instructing a debt collection agency to contact you;
+- issuing legal proceedings for enforcement purposes;
+- informing fraud prevention agencies where permitted;
+- sell, transfer or assign the amount you owe us to a third party.
+If we take any (or all) of these steps, we might charge you our reasonable costs for doing so.
+You may also be subject to additional fees such as top up surcharge costs, increased foreign
+exchange markup at weekends, the costs for appointing a debt collection agency or our legal
+costs incurred.
+If you are experiencing financial difficulties please reach out to us via in-app chat for support.
+You may be responsible for paying taxes or costs that apply to payments you make or receive
+through your account and that we are not responsible for collecting from you. In doing so, we
+may put your balance to negative (if necessary). So please make sure you check for yourself!
+29. When you might be responsible for our losses
+You may be responsible to us for certain losses.
+If you have broken these terms and conditions, and this has caused us to suffer a loss, the
+following will apply:
+you will be responsible for any losses we suffer as a result of your action (we will try to keep
+the losses to a minimum);
+if your actions result in us losing profits, you may also be responsible for those losses. You
+won't be responsible if this would mean that we are compensated twice for the same loss;
+and
+you will also be responsible for any reasonable legal costs that arise as a result of our losses.
+30. How to make a complaint
+If you’re unhappy with our service, we’ll try to put things right
+We always do our best, but we realise that things sometimes go wrong. If you have a complaint,
+please contact us.
+The Financial Ombudsman Service
+If you are unhappy with how we have dealt with your complaint, you can refer it to the Financial
+Ombudsman Service within six months of the date we sent (or should have sent) our final
+response to you:
+Their address is: Exchange Tower London E14 9SR.
+Phone from UK: 0800 023 4567.
+Phone from outside UK: +44 20 7964 0500.
+You can find more information on their website.
+You can also use their service through the Online Dispute Resolution platform.
+If your complaint is about our service relating to payments into and out of your account, you can
+also make a complaint to the Financial Conduct Authority.
+More information
+Click here for more information about our complaints handling procedure.
+How to make a complaint
+If you'd just like to speak to someone about an issue that's concerning you, please contact us
+through the Revolut app. We can usually settle matters quickly through the app. You’ll probably
+need to give us the information below.
+If you prefer you can make your complaint using this form. Or you can email us at
+formalcomplaints@revolut.com.
+You’ll need to tell us:
+your name;
+the phone number and email address associated with your account;
+when the problem arose; and
+how you'd like us to put the matter right.
+We'll look into your complaint and respond to you by email. We will communicate with you in
+English, unless we tell you otherwise.
+31. Data protection and confidentiality
+We need to collect information about you to provide you with the services under the agreement.
+For more information about how we use your personal information, see our Customer Privacy
+Notice (accessible here).
+By entering into the agreement, you acknowledge that we will gather, process and store your
+personal information for the purpose of providing our services to you. This doesn’t affect any
+rights and obligations you or we have under data protection law.
+Confidentiality
+Some of the features we make available in the Revolut app are social in nature. This means
+that other Revolut customers may be able to see limited information about you (such as your
+name, profile picture and the Revolut plan you are on). For example, if a customer searches for
+your username in the app, they will see your full name and profile picture.
+By entering into this agreement, you acknowledge that limited information about you may be
+accessible to other Revolut customers depending on your privacy settings. You can change your
+privacy settings in the Revolut app at any time.
+32. Our intellectual property
+Except as we've set out in section 33 below, we own all the intellectual property in our products
+(for example, the content in our app and on our website, our logo and card designs). You must
+not use our intellectual property as your own, except to enjoy our products. You also must not
+reverse-engineer any of our products (that is, reproduce them after a detailed examination of
+their construction or composition).
+33. Some legal bits and pieces
+Our contract with you
+Only you and we have any rights under the agreement.
+The agreement is personal to you and you cannot transfer any rights or obligations under it to
+anyone else.
+Our right to transfer
+We will only transfer any of your and our rights or obligations under the agreement if we
+reasonably think that this won't have a significant negative effect on your rights under these
+terms and conditions or we need to do so to keep to any legal or regulatory requirement. When
+we transfer rights and obligations we call this ‘novation’. When we only transfer rights, we call
+this ‘assignment’.
+English law applies
+The laws of England and Wales apply to these terms and conditions.
+The English version of the agreement applies
+If these terms and conditions are translated into another language, the translation is for
+reference only and the English version will apply.
+Third-party intellectual property
+The Revolut app displays Google Maps features and content, which includes intellectual
+property that doesn’t belong to us. For this reason, the Google Maps/Google Earth Additional
+Terms of Service (maps.google.com/help/terms_maps.html) and Google Privacy Policy
+(www.google.com/policies/privacy/) apply to your use of the Google Maps features and content.
+Our right to enforce the agreement
+If you have broken the agreement between you and us and we don't enforce our rights, or we
+delay in enforcing them, this will not prevent us from enforcing those or any other rights at a
+later date.
+Taking legal action against us
+If you want to take legal action against us in the courts, only the courts of England and Wales
+can deal with any matter relating to these terms and conditions.
