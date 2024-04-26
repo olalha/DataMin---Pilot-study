@@ -8,7 +8,7 @@ OPENROUTER_API_KEY = 'sk-or-v1-f8a9d03624617bb39fd4a06f70358af5cd4cedf9eed2b131b
 MODEL = "google/gemini-pro-1.5"
 
 BATCH_SIZE = 1
-MAX_BATCHES = 1
+MAX_BATCHES = 999999
 
 READ_FILE = 'csv_files/unfair_terms_topics.csv'
 WRITE_FILE = 'csv_files/data_unfair_terms.csv'
@@ -45,9 +45,6 @@ def process_batches(terms, initial_message):
         batch_terms = [terms[i][0] for i in range(start, end)]
         response = send_message(initial_message, batch_terms)
         choices = response.get('choices', [])
-        
-        print(choices)
-        
         labelled_data = []
         
         # Iterate through each choice to extract and process the returned messages
