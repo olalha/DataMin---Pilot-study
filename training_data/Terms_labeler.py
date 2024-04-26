@@ -45,6 +45,9 @@ def process_batches(terms, initial_message):
         batch_terms = [terms[i][0] for i in range(start, end)]
         response = send_message(initial_message, batch_terms)
         choices = response.get('choices', [])
+        
+        print(choices)
+        
         labelled_data = []
         
         # Iterate through each choice to extract and process the returned messages
